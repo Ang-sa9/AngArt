@@ -603,7 +603,10 @@ a,a:hover
     margin: 0px;
 }
 #event h2 span{
+    font-size: 45px;
+    text-align: center;
     color: rgb(0, 0, 0);
+
 }
 .event-content ul
 {
